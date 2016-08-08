@@ -2,3 +2,8 @@ body{
 font-family: arial;
 background-color:#CCC; 
 }
+#main{
+  border: solid 1px black;
+  border-bottom-left-radius:15px;
+	border-top-right-radius:15px;
+}
