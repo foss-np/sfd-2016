@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Software Freedom Day 2016</title>
+<style>
+.sfd {
+  background: #fff;
+  margin-top: 90px;
+}
+
+.sfd h1 {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  color: #777;
+  margin-bottom: 40px;
+}
+
+.date-top{
+  text-align: center;
+  font-family: Arial, sans-serif;
+  font-size: 12pt;
+  color: #777;
+}
+</style>
+<link rel="stylesheet" href="css/vertical.slider.css">
+</head>
+<body class="sfd">
+
+<div class="top-bar">
+
+<img class="logo" src="images/logo.png">
+<table class="nav-bar" align="right">
+	<tr>
+	<td align="center"><a href="#">Home</a></td>
+	<td align="center"><a href="#">About</a></td>
+	<td align="center"><a href="#">Wiki</a></td>
+	<td align="center"><a href="#">FOSS Nepal</a></td>
+
+</table>
+</div>
+<p class="date-top">Mark your calender to celebrate Software Freedom Day in <b>Nepal</b> on 17th September, Saturday!<hr width="680"></p>
+  <div class="box-frame cf">
+
+    <ul class="featured">
+      <li class="selected">What is Software Freedom Day?</li>
+      <li>When is Software Freedom Day?</li>
+      <li>Where is the event?</li>
+      <li>Who can attend?</li>
+      <li>What will be the entry free?</li>
+      <li>Notice!</li>
+    </ul>
+
+    <div class="content-preview">
+
+      <div class="news-content top-content">
+        <img src="images/ilovesfd.png">
+        <p><a href="softwarefreedomday.org">Software Freedom Day is near.</a></p>
+
+        <p>Software Freedom Day (SFD) is an annual worldwide celebration of Free Software. SFD is a public education effort with the aim of increasing awareness of Free Software and its virtues, and encouraging its use.
+
+Software Freedom Day was established in 2004 and was first observed on 28 August of that year. About 12 teams participated in the first Software Freedom Day. Since that time it has grown in popularity and every year we have more than 300 events organized by over 100 cities from the world.</p>
+      </div>
+      <div class="news-content">
+        <img src="images/ilovesfd.png">
+        <p><b>Time:</b>N/A<br>
+        <b>Date:</b>
+        </p>
+        <p>Software Freedom Day is usually celebrated in September and this year, we're going to celebrate it on <b>17th September, Saturday.</b></p>
+      </div>
+
+      <div class="news-content">
+        <img src="images/ilovesfd.png">
+        <p><b>Venue:</b><a href="#">N/A</a></p>
+
+        <p>However, the venue has not been fixed yet as we're still planning for the event.</p>
+      </div>
+      <div class="news-content">
+        <img src="images/ilovesfd.png">
+        <p><b>Anyone can!</b></p>
+        <p>Anyone can attend the event and know about the running trend in the world of opensource. Also, students, developers and general users as well are highly
+        suggested.</p>
+      </div>
+      <div class="news-content">
+        <img src="images/ilovesfd.png">
+        <p><b>Free!</b></p>
+        <p>The entry is absolutely <b>free</b> for everyone who want to attend the event. No any pre-registrations are required. However, you may need to register
+        at the event but that won't be charged.</p>
+      </div>
+      <div class="news-content">
+        <img src="images/ilovesfd.png">
+        <p><b>Notice!</b></p>
+        <p>Make sure you bring your laptops or any other external devices for taking alot of files from us! :)</p>
+      </div>
+
+    </div>
+
+  </div>
+<hr>
+
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="js/jquery-1.8.1.min.js"><\/script>')</script>
+  <script src="js/vertical.news.slider.js"></script>
+  <script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-1965499-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+</body>
+</html>
