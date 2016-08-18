@@ -6,4 +6,4 @@
 </p>
 <b>Website for Software Freedom Day 2016</b><br>
 ***Organised by FOSS Nepal.***<br><br>
-Check out more at <a href="softwarefreedomday.org"> Software Freedom Day</a>.
+Check out more at <a href="http://softwarefreedomday.org"> Software Freedom Day</a>.
