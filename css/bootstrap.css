@@ -6563,5 +6563,7 @@ button.close {
     display: none !important;
   }
 }
-
+.session-logo{
+  width: 20%;
+}
 /*# sourceMappingURL=bootstrap.css.map */
